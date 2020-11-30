@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# whitejhat jr project 20
+
+has a reusible function isRectangleTouching.
